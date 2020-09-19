@@ -59,3 +59,6 @@ class SVM:
         prediction = self.svm_model.predict(vectors.reshape(1, -1))
 
         return prediction[0]
+
+    # Todo
+    # Add other metrics and network status details
