@@ -1,3 +1,14 @@
 # Intervention_API
 
-## Create Virtual Environment
+## Installation
+```
+virtualenv api
+```
+
+```
+cd api
+```
+
+```
+pip install -r [path to requirements.txt]
+```
