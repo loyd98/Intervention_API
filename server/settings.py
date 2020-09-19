@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # apps
-    'apps.endpoints'
+    'apps.endpoints',
+    'apps.ml'
 ]
 
 MIDDLEWARE = [
